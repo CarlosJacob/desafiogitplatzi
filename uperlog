@@ -1,0 +1,71 @@
+[33mcommit 9b6e4cdb97ca408d7ca64c879231ba5b4ea36c2a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 69d525b 5415526
+Author: Carlos Jacob Carrasco Rodriguez <37249495+CarlosJacob@users.noreply.github.com>
+Date:   Wed Apr 11 17:40:38 2018 +0200
+
+    Merge pull request #3 from CarlosJacob/fotos-size-v2
+    
+    Merge branch 'fotos-size-v2' cambiando tamaño foto
+
+[33mcommit 5415526da5f32d765128cc4a0eff222873f03918[m[33m ([m[1;31morigin/fotos-size-v2[m[33m, [m[1;32mfotos-size-v2[m[33m)[m
+Author: Carlos Jacob <carlos.carrasco@gmail.com>
+Date:   Wed Apr 11 17:25:57 2018 +0200
+
+    Merge branch 'fotos-size-v2' cambiando tamaño foto
+
+[33mcommit 69d525b17408773e3cbb8ef1623e07cdf0e2dab0[m
+Merge: c7f961d 90aa1a0
+Author: Carlos Jacob <carlos.carrasco@gmail.com>
+Date:   Wed Apr 11 17:08:58 2018 +0200
+
+    Merge branch 'add-fotosv1' agregando fotos
+
+[33mcommit 90aa1a06984d72b3be8161a19c609ece93cebd83[m[33m ([m[1;31morigin/add-fotosv1[m[33m, [m[1;32madd-fotosv1[m[33m)[m
+Author: Carlos Jacob <carlos.carrasco@gmail.com>
+Date:   Wed Apr 11 13:41:41 2018 +0200
+
+    Eliminando foto de cavecera
+
+[33mcommit 8abcdc6831095fe733898922ca9e52760a6fd214[m
+Author: Carlos Jacob <carlos.carrasco@gmail.com>
+Date:   Wed Apr 11 13:20:58 2018 +0200
+
+    Agregando dos fotos al archivo index.html
+
+[33mcommit c7f961d8aa77b0a92a170180638e07a518e3e887[m[33m ([m[1;31morigin/edit-indexv2[m[33m, [m[1;32medit-indexv2[m[33m)[m
+Author: Carlos Jacob <carlos.carrasco@gmail.com>
+Date:   Wed Apr 11 13:20:58 2018 +0200
+
+    cambiando el site name por el nombre comleto
+
+[33mcommit eda2cc517183850e2c262ec0cd41206973fa3430[m[33m ([m[1;31morigin/index-new-edit[m[33m, [m[1;32mindex-new-edit[m[33m)[m
+Author: Carlos Jacob <carlos.carrasco@gmail.com>
+Date:   Wed Apr 11 13:10:06 2018 +0200
+
+    cambiando titulo
+
+[33mcommit 43c4c1b02aaf19923b133ae3e31e54af299caaf7[m
+Author: Carlos Jacob <carlos.carrasco@gmail.com>
+Date:   Wed Apr 11 13:07:23 2018 +0200
+
+    agregando codigo al index y nuevos archivos
+
+[33mcommit be99365a18ec5f1fb0ec4f30990fcbc1a6ab57ef[m
+Author: Carlos Jacob <carlos.carrasco@gmail.com>
+Date:   Wed Apr 11 12:42:46 2018 +0200
+
+    agregando nuevos archivos a la rama master para crear el proyecto WEB fotos
+
+[33mcommit 7238e52b3d4453791b08223baed868a7d9f9cd90[m
+Author: Carlos Jacob Carrasco Rodriguez <37249495+CarlosJacob@users.noreply.github.com>
+Date:   Wed Apr 11 12:31:56 2018 +0200
+
+    Update Readme
+    
+    solo para explicar que se esta haciendo con los archivo en este repositotiro
+
+[33mcommit 5aa88c8e0fc5499964fec16618ac80c17bcc9a9f[m
+Author: Carlos Jacob Carrasco Rodriguez <37249495+CarlosJacob@users.noreply.github.com>
+Date:   Wed Apr 11 12:22:21 2018 +0200
+
+    Initial commit
